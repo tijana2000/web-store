@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Store.Api",
+    "\\Store.Api\\Controllers",
+    "\\Store.Api\\Request",
+    "\\Store.Api\\Request\\ArticleRequest",
+    "\\Store.Core",
+    "\\Store.Core\\DTOs",
+    "\\Store.Core\\DTOs\\UserDTOs"
+  ],
+  "SelectedNode": "\\Store.Api\\Controllers\\ArticleController.cs",
+  "PreviewInSolutionExplorer": false
+}
